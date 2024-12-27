@@ -1,0 +1,29 @@
+# access Argo CD and Prometheus Node Exporter externally, set up a LoadBalancer service.
+
+# Only apply this command `kubectl apply -f argocd-server-loadbalancer.yaml` if there is available public IP Quota in your cloud provider account.` - undo by command : kubectl delete -f argocd-server-loadbalancer.yaml
+
+# Option 1: Access Argo CD and Prometheus Node Exporter via Port Forwarding
+
+# Option 2: Set Up a LoadBalancer Service for External Access
+
+# Poor studnet use Option1 to access Argo CD and Prometheus Node Exporter.
+
+# kubectl get pods -n argocd - Ensure the Argo CD server pod is running:
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: argocd-server
+  namespace: argocd
+spec:
+  type: ClusterIP # Change the service type to LoadBalancer if there is quota available.
+  ports:
+  - port: 443
+    targetPort: 8080
+  selector:
+    # app: argocd-server
+    app.kubernetes.io/name: argocd-server
+
+# https://localhost:8080
+# apply command `kubectl apply -f argocd-server-loadbalancer.yaml`
+# kubectl get secret argocd-initial-admin-secret -n argocd -o jsonpath="{.data.password}" | base64 --decode
