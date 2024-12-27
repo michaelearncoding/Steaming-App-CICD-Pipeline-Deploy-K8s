@@ -9,6 +9,7 @@ This project is a CV project that demonstrates my ability to understand complex 
    - Prometheus for monitoring with Grafana template dashboards
    - Utilizing node exporter within VM environments and Helm to install node exporter within K8s environments for monitoring purposes.
 4. Using tools like ArgoCD and DockerHub to build, push, and deploy images to Kubernetes.
+5. Using the local Azure Cloud CLI to manipulate the Kubernetes cluster with Helm for package management and deployment.
 
 Docker image (similar to Google Container Registry (GCR).): [https://hub.docker.com/repository/docker/michaelmai1201/amazon-prime/general](https://hub.docker.com/repository/docker/michaelmai1201/amazon-prime/general)
 
