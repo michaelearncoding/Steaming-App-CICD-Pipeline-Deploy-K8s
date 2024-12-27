@@ -84,3 +84,10 @@ kubectl port-forward --namespace prometheus-node-exporter $POD_NAME 9100
 
 # Open your web browser and navigate to:
 # http://127.0.0.1:9100
+
+
+# Local: 
+
+git checkout main # Make sure you are on the main branch by executing:
+
+git pull origin main # Pull the latest changes from the remote repository:
