@@ -12,6 +12,9 @@ This project is a CV project that demonstrates my ability to understand complex 
 
 Docker image (similar to Google Container Registry (GCR).): [https://hub.docker.com/repository/docker/michaelmai1201/amazon-prime/general](https://hub.docker.com/repository/docker/michaelmai1201/amazon-prime/general)
 
+## Project Summary
+![Summary](https://github.com/michaelearncoding/Steaming-App-CICD-Pipeline-Deploy-K8s/blob/main/assect/Summary.png?raw=true)
+
 ## Intergrate Multiple Tools
 
 ### Grafana Dashboard
