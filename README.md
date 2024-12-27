@@ -12,3 +12,16 @@ This project is a CV project that demonstrates my ability to understand complex 
 
 Docker image (similar to Google Container Registry (GCR).): [https://hub.docker.com/repository/docker/michaelmai1201/amazon-prime/general](https://hub.docker.com/repository/docker/michaelmai1201/amazon-prime/general)
 
+## Intergrate Multiple Tools
+
+### Grafana Dashboard
+![Grafana](assets/Grafana_Dashboard.png)
+
+### Jenkins
+![Jenkins](assets/Jenkins_Workflow.png)
+
+### Argo CICD
+![SonarQube](assets/ArgoCICD_Deployment_Workflow.png)
+
+### Prometheus_Endpoint
+![Prometheus_Endpoint](assets/Prometheus_Endpoint.png)
