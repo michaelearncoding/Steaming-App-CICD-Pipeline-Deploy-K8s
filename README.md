@@ -1,6 +1,6 @@
 # Steaming-App-CICD-Pipeline-Deploy-K8s
 
-This project is a CV project that demonstrates my ability to understand complex CI/CD and DevOps skillsets. The project focuses on:
+This project is a CV project that demonstrates my ability to understand complex CI/CD and DevOps skillsets with K8s. The project focuses on:
 
 1. Setting up Azure infrastructure for a web application and configuring Azure VMs.
 2. Implementing CI/CD pipelines with security checks using tools like SonarQube.
