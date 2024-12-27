@@ -12,3 +12,17 @@ This project is a CV project that demonstrates my ability to understand complex 
 
 Docker image (similar to Google Container Registry (GCR).): [https://hub.docker.com/repository/docker/michaelmai1201/amazon-prime/general](https://hub.docker.com/repository/docker/michaelmai1201/amazon-prime/general)
 
+## Intergrate Multiple Tools
+
+### Grafana Dashboard
+![Grafana](https://github.com/michaelearncoding/Steaming-App-CICD-Pipeline-Deploy-K8s/blob/adding_configure_files_for_k8s/assect/Grafana_Dashboard.png?raw=true)
+
+### Jenkins
+![Jenkins](https://github.com/michaelearncoding/Steaming-App-CICD-Pipeline-Deploy-K8s/blob/adding_configure_files_for_k8s/assect/Jenkins_Workflow.png?raw=true)
+
+### Argo CICD
+![Argo CICD](https://github.com/michaelearncoding/Steaming-App-CICD-Pipeline-Deploy-K8s/blob/adding_configure_files_for_k8s/assect/ArgoCICD_Deployment_Workflow.png?raw=true)
+
+### Prometheus Endpoint
+![Prometheus Endpoint](https://github.com/michaelearncoding/Steaming-App-CICD-Pipeline-Deploy-K8s/blob/adding_configure_files_for_k8s/assect/Prometheus_Endpoint.png?raw=true)
+
