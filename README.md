@@ -21,7 +21,7 @@ Docker image (similar to Google Container Registry (GCR).): [https://hub.docker.
 ![Jenkins](assets/Jenkins_Workflow.png)
 
 ### Argo CICD
-![SonarQube](assets/ArgoCICD_Deployment_Workflow.png)
+![Argo CICD](assets/ArgoCICD_Deployment_Workflow.png)
 
 ### Prometheus_Endpoint
 ![Prometheus_Endpoint](assets/Prometheus_Endpoint.png)
