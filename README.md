@@ -15,13 +15,14 @@ Docker image (similar to Google Container Registry (GCR).): [https://hub.docker.
 ## Intergrate Multiple Tools
 
 ### Grafana Dashboard
-![Grafana](assets/Grafana_Dashboard.png)
+![Grafana](https://github.com/michaelearncoding/Steaming-App-CICD-Pipeline-Deploy-K8s/blob/adding_configure_files_for_k8s/assect/Grafana_Dashboard.png?raw=true)
 
 ### Jenkins
-![Jenkins](assets/Jenkins_Workflow.png)
+![Jenkins](https://github.com/michaelearncoding/Steaming-App-CICD-Pipeline-Deploy-K8s/blob/adding_configure_files_for_k8s/assect/Jenkins_Workflow.png?raw=true)
 
 ### Argo CICD
-![Argo CICD](assets/ArgoCICD_Deployment_Workflow.png)
+![Argo CICD](https://github.com/michaelearncoding/Steaming-App-CICD-Pipeline-Deploy-K8s/blob/adding_configure_files_for_k8s/assect/ArgoCICD_Deployment_Workflow.png?raw=true)
 
-### Prometheus_Endpoint
-![Prometheus_Endpoint](assets/Prometheus_Endpoint.png)
+### Prometheus Endpoint
+![Prometheus Endpoint](https://github.com/michaelearncoding/Steaming-App-CICD-Pipeline-Deploy-K8s/blob/adding_configure_files_for_k8s/assect/Prometheus_Endpoint.png?raw=true)
+
